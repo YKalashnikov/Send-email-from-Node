@@ -41,7 +41,9 @@ ul{
 .company-info{
   background:#c9e6ff;
 }
-
+.msg {
+  color:red;
+}
 .company-info h3, .company-info ul{
   text-align: center;
   margin:0 0 1rem 0;
